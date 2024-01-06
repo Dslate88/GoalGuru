@@ -1,4 +1,5 @@
 # GoalGuru
+Some experimantation of LLM layer logic for assisting users with goal reflections.
 
 ## Explanation of the directory structure:
 Based on the information provided and the context of your project, here's a suggested directory structure for your GitHub repository:
@@ -59,9 +60,5 @@ Explanation of the directory structure:
   - `package.json`: Configuration file for managing project dependencies and scripts.
   - `babel.config.js`: Configuration file for Babel, used for transpiling JavaScript code.
   - ...
-
-This directory structure separates the backend and frontend code, allowing for easier management and organization of the project. The backend code handles the interaction with the LLM and data storage, while the frontend code focuses on rendering the user interface and handling user interactions.
-You can further extend this structure as per your project requirements, adding additional directories for tests, deployment configuration, or any other specific components or functionalities you plan to include.
-Remember to adapt the directory structure according to your specific project needs and conventions, but the suggested structure should provide a solid foundation for your GitHub repository.
 
 
